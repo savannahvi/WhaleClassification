@@ -11,3 +11,6 @@ Resnet152-Bounding Boxes
 
 Resnet34-Bounding Boxes
 -another transfer learning attempt with different model
+
+My Own CNN-Bounding Boxes
+-my own attempt at creating a CNN similar to the winner's
